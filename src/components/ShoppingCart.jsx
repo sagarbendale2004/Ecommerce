@@ -37,7 +37,7 @@ const ShoppingCart = () => {
   };
 
   return (
-    <div className="flex items-center justify-center min-h-[100vh] w-[85%] mx-auto flex-col bg-white shadow-xl">
+    <div className="flex items-center justify-center min-h-[100vh] w-[90%] mx-auto flex-col bg-white shadow-xl">
       <div className="flex-1 overflow-y-auto px-4 py-6 sm:px-6">
         <h2 className="text-lg font-medium text-gray-900">Shopping cart</h2>
         <ul role="list" className="divide-y divide-gray-200 mt-8">
